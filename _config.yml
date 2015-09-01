@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
+title:            An Blog - Applied Telekinetics
 locale:           en_US
-url:
-
+url:              http://appliedtelekinetics.com/blog
+baseurl:          /blog
 
 # Jekyll configuration
 
