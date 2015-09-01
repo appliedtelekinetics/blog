@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            An Blog - Applied Telekinetics
+title:            Applied Telekinetics Developer Blog
 locale:           en_US
 url:              http://appliedtelekinetics.com/blog
 baseurl:          /blog
