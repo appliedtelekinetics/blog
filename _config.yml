@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Applied Telekinetics Developer Blog
+title:            Sapphire Development Blog
 locale:           en_US
-url:              http://appliedtelekinetics.com/blog
-baseurl:          /blog
+url:              http://appliedtelekinetics.com/sapphire-blog
+baseurl:          /sapphire-blog
 
 # Jekyll configuration
 
@@ -26,21 +26,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  name: SapphirePowered.com
+  web: http://SapphirePowered.com
+  # avatar: bio-photo.jpg
+  bio: "This is where updates, news and other Sapphire-related stuff will be posted."
+  email: info@sapphirepowered.com
+  disqus-shortname: appliedtelekineticsdevelopmentblog
+  twitter: SapphirePowered
+  facebook: SapphirePowered
   google:
-    plus: #username
-    analytics:
+    plus: SapphirePowered
+    analytics: UA-64686658-2
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: AppliedTelekinetics
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
@@ -51,7 +52,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: xunker
   soundcloud: #username
   weibo: #username
   flickr: #username
