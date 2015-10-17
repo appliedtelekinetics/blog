@@ -27,7 +27,7 @@ After I proved it could work on batteries, I had to make a way to mount it to th
 [![First sapphire proof-of-concept]({{ site.url }}/images/ancient_history/IMG_0725_small.jpg)]({{ site.url }}/images/ancient_history/IMG_0725.jpg)
 {: .image-pull-left}
 
-Rocking the middle switch will change the track and pushing it in will toggle "play" or "pause". The buttons to the left and right are volume control and the final button at the top is the "Home" button on iOS and Android. Even though the design wasn't really ergonomic (and *was* pretty ugly), it proved that is could be built.
+Rocking the middle switch will change the track and pushing it in will toggle "play" or "pause". The buttons to the left and right are volume control and the final button at the top is the "Home" button on iOS and Android. Even though the design wasn't really ergonomic (and *was* pretty ugly), it proved that is could be built. This was July of 2014.
 
 I then built over a dozen test controllers out of foam modeling clay; no wiring or electronics, just tests to find the right size and the best place for the switches.
 
