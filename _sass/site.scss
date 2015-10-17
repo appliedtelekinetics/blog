@@ -30,6 +30,14 @@
 .pull-left {
 	float: left;
 }
+.image-pull-left {
+  float: left;
+  margin-top: 0;
+  img {
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+}
 
 /* Float right */
 .pull-right {
@@ -38,6 +46,18 @@
 .image-pull-right {
 	float: right;
 	margin-top: 0;
+  img {
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+}
+
+.image-center {
+  margin: auto;
+  text-align: center;
+  img {
+    margin: 10px 5px 5px 5px;
+  }
 }
 
 /* Clearfix */
