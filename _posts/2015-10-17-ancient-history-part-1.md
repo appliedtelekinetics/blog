@@ -7,7 +7,7 @@ excerpt: "Showing the history of Sapphire, from the first version until now."
 tags: []
 comments: true
 ---
-Before Sapphire really existed, there was just the idea: can you make a Bluetooth remote-control fit inside the hands of a crutch? At the time I didn’t know a thing about micro-controllers, electronics or 3D printing but I still needed to create a proof of concept device.
+Before Sapphire really existed, there was just the idea: can you make a Bluetooth remote-control fit inside the hands of a crutch? At the time I didn't know a thing about micro-controllers, electronics or 3D printing but I still needed to create a proof of concept device.
 
 Using a handful of off-the-shelf hardware, a soldering iron and some hand tools, the proof of concept was built in a month of weekends.
 
@@ -54,7 +54,7 @@ I put the switchgear in to the mold, soldered it up and then poured liquid JB-We
 [![Second version, made from cast JB-Weld]({{ site.url }}/images/ancient_history_part_1/IMG_1031_small.jpg)]({{ site.url }}/images/ancient_history_part_1/IMG_1031.jpg)
 {: .image-pull-left}
 
-The result was a very tough, but very bad-smelling, copy. It also took a lot of time to wire up and cast, and the switches couldn’t be replaced without scrapping the whole unit so I knew this would’t do for long.
+The result was a very tough, but very bad-smelling, copy. It also took a lot of time to wire up and cast, and the switches couldn't be replaced without scrapping the whole unit so I knew this wouldn't do for long.
 
 I used this version for about 4 months until I bought a 3D printer and was able design a printable and repeatable assembly.
 
