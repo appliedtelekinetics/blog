@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: SapphirePowered.com
   web: http://SapphirePowered.com
-  # avatar: bio-photo.jpg
+  avatar: hero.jpg
   bio: "This is where updates, news and other Sapphire-related stuff will be posted."
   email: info@sapphirepowered.com
   disqus-shortname: appliedtelekineticsdevelopmentblog
