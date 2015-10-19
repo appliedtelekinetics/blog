@@ -66,3 +66,5 @@ With a 3D printer, time to assemble the control hardware has gone from about 4 h
 {: .image-center}
 
 The production versions will probably move to injection-molded plastic, but with the advancements made in 3D printing it may make more sense to continue to use 3D printed hardware.
+
+(Next: [Part 2: the stuff you can't see]({{site.url}}/ancient-history-part-2/))
